@@ -1,0 +1,4 @@
+#Tue May 04 01:30:40 BRT 2021
+base.0=/media/lucas/LINUX_STORAGE/Projetos/Almoxarifado/almoxadimin_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

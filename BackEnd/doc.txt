@@ -1,0 +1,1 @@
+docker run -ti --network=host --hostname api_almoxarifado -v /volumeApi:/volumeApi  --name almoxarifado ubuntu /bin/bash
